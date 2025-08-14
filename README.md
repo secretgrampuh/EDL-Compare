@@ -3,7 +3,7 @@ Compare the EDLs of 2 of your movies to see the difference!
 
 Once George RR Martin sat down next to a young editor and decided to remix his whole movie on a whim. The only problem was he entire movie had already been exported and delivered to 3 different vendors across the globe!
 
-Rather than assign this to a production coordinator and an intern, who would surely make mistakes, I solved the problem with python!
+Rather than assign this to a production coordinator and an intern, who would surely make mistakes, I solved the problem with python! This solution was faster and more accurate than human labor.
 
 
 The goal was to create a spreadsheet that would summarize for the different vendors which shots got longer, which shots got shorter, etc. I did not bother to generalize or port into a CLI tool because I would need a director to screw up in the exact same way again for this to be useful. 
