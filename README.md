@@ -1,7 +1,7 @@
 # EDL-Compare
 Compare the EDLs of 2 of your movies to see the difference!
 
-Once a director sat down next to a young editor and decided to remix his whole movie on a whim. The only problem was the entire movie had already been exported and delivered to 3 different vendors across the globe!
+On one of my projects a director sat down next to a young editor and decided to remix his whole movie on a whim. The only problem was the entire movie had already been exported and delivered to 3 different vendors across the globe!
 
 Rather than assign this to a production coordinator and an intern, who would surely make mistakes, I solved the problem with python! This solution was faster and more accurate than human labor.
 
